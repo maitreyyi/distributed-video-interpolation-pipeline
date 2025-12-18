@@ -4,7 +4,7 @@
 
 **Authors:**  
 - Maitreyi Sinha (maitres@uci.edu)  
-- Bharath Reddy (vreddem@uci.edu)  
+- Venkata Bharath Reddy Reddem (vreddem@uci.edu)  
 - Anisha Mohanty (apmohant@uci.edu)
 
 ---
